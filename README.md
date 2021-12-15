@@ -24,3 +24,4 @@ Slides attached.
 
 
  
+<img width="455" alt="3d distance map" src="https://user-images.githubusercontent.com/86988496/146266278-cfb35bc3-9d29-4391-908a-64cd2a337e23.PNG">
