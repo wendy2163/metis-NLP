@@ -1,5 +1,5 @@
 ## Design
-The project goal is to explore the popular comedy topics and understand the difference between male and female comedians. It expores how male and female comdian describe the same noun. It also measures how one comedian’s style is different or similar to another one. 
+The project goal is to explore the popular comedy topics and understand the difference between male and female comedians. It expores how male and female comdian describe the same noun. It also measures how one comedian’s style is different or similar to another one. (visulization towards the end)
 
 The insights can be used for organizing comedy events. A planner can choose the order of performance based on the similarity distance. 
 
